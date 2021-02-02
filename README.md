@@ -6,7 +6,9 @@ This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-e
 - Round 1: 
   - April 2020
   - 15 Attendees
-  - Project: __MultiCheXNet__, [paper](https://arxiv.org/abs/2008.01973), [code](https://github.com/coursat-ai/MultiCheXNet)
+ 
+ # Capstone Project: 
+ - __MultiCheXNet__, [paper](https://arxiv.org/abs/2008.01973), [code](https://github.com/coursat-ai/MultiCheXNet)
 
 
 # Videos:
