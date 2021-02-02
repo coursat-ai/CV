@@ -1,6 +1,6 @@
 # Deep Learning in Computer Vision
 
-This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-east-1.amazonaws.com/) Deep Learning in Computer Vision course.
+This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-east-1.amazonaws.com/) Deep Learning in Computer Vision Class.
 
 # Rounds:
 - Round 1: 
