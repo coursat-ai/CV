@@ -3,15 +3,18 @@
 This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-east-1.amazonaws.com/) Deep Learning in Computer Vision Class.
 
 # Rounds:
-- Round 1: 
+
+## Round 1: 
   - April 2020
   - 15 Attendees
  
- # Capstone Project: 
+### Capstone Project: 
+
  - __MultiCheXNet__, [paper](https://arxiv.org/abs/2008.01973), [code](https://github.com/coursat-ai/MultiCheXNet)
 
 
-# Videos:
+### Lectures:
+
 - __Lecture 1__: Introduction to Practical AI for Engineers 
   - [video](https://www.youtube.com/watch?v=oQcMp-_hOok)
   - [code](https://drive.google.com/file/d/1IwhBkAvgBG0QiBwGPJb2FbOXtz_sQyBW/view?usp=sharing)
