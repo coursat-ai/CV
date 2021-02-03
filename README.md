@@ -17,7 +17,7 @@ This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-e
 
 - __Lecture 1__: Introduction to Practical AI for Engineers 
   - [Video](https://www.youtube.com/watch?v=oQcMp-_hOok)
-  - [code](https://drive.google.com/file/d/1IwhBkAvgBG0QiBwGPJb2FbOXtz_sQyBW/view?usp=sharing)
+  - [Code](https://drive.google.com/file/d/1IwhBkAvgBG0QiBwGPJb2FbOXtz_sQyBW/view?usp=sharing)
   - [Python Review](https://colab.research.google.com/drive/1O2KDJ8b-0MIqPKv2gulWrFVFFULCr-Oe)
   - [IPython and Jupyter](https://colab.research.google.com/drive/1O2KDJ8b-0MIqPKv2gulWrFVFFULCr-Oe)
 
