@@ -16,22 +16,22 @@ This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-e
 ### Lectures:
 
 - __Lecture 1__: Introduction to Practical AI for Engineers 
-  - [video](https://www.youtube.com/watch?v=oQcMp-_hOok)
+  - [Video](https://www.youtube.com/watch?v=oQcMp-_hOok)
   - [code](https://drive.google.com/file/d/1IwhBkAvgBG0QiBwGPJb2FbOXtz_sQyBW/view?usp=sharing)
   - [Python Review](https://colab.research.google.com/drive/1O2KDJ8b-0MIqPKv2gulWrFVFFULCr-Oe)
   - [IPython and Jupyter](https://colab.research.google.com/drive/1O2KDJ8b-0MIqPKv2gulWrFVFFULCr-Oe)
 
 - __Lecture 2__: Introduction to Deep Learning 
-  - [video](https://youtu.be/bU73VlC_qIk)
+  - [Video](https://youtu.be/bU73VlC_qIk)
   - [Deep Learning with Python and Keras](https://colab.research.google.com/drive/1pn10aiFzYq9cUau0DTkJzMPnYNgqtnpl?usp=sharing)
 
 - __Lecture 3__:  Building blocks of Neural Nets 
-  - [video](https://www.youtube.com/watch?v=6diE97vUr98)
+  - [Video](https://www.youtube.com/watch?v=6diE97vUr98)
   - [Building blocks of Neural Nets](https://colab.research.google.com/drive/1pn10aiFzYq9cUau0DTkJzMPnYNgqtnpl?usp=sharing)
   - [Effect of Batch size](https://colab.research.google.com/drive/11_-SxhdtxvRYdPukURz-cojd7-JdpiKR?usp=sharing)
 
 - __Lecture 4__: Fundamentals of Practical Deep Learning Process 
-  - [video](https://www.youtube.com/watch?v=rK83v1SnUl8)
+  - [Video](https://www.youtube.com/watch?v=rK83v1SnUl8)
   - [Conventions of Deep Learning Data and Tensors](https://colab.research.google.com/drive/1wb4knpgVvynxkepuhje5msp5kXlLRNF7?usp=sharing) 
   - _Example: dealing with Video/Temporal data_ 
     - [Video DNN](https://colab.research.google.com/drive/1Dwyr4cX9q_3crRFJQpD15eT8fMOzGdph?usp=sharing)
@@ -40,22 +40,22 @@ This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-e
 
 
 - __Lecture 5__: Introduction to ConvNets 
-  - [video](https://www.youtube.com/watch?v=XHnkZOd8h9g)
+  - [Video](https://www.youtube.com/watch?v=XHnkZOd8h9g)
   - [Basics of ConvNets](https://colab.research.google.com/drive/1iKtAxLm9Lh15kDeY1I7TrwuqphPGMFcd?usp=sharing)
   - [ConvNets with Small Datasets (Data Augmentation)](https://colab.research.google.com/drive/1_zQ9zCUYHq2yb4ZItMP0GLWS3s-byWK_?usp=sharing)
 
 - __Lecture 6__: Transfer Learning and Pre-trained ConvNets 
-  - [video](https://www.youtube.com/watch?v=5Wb6C-d1W-s)
+  - [Video](https://www.youtube.com/watch?v=5Wb6C-d1W-s)
   - [Transfer Learning with ConvNets](https://colab.research.google.com/drive/1XycgirSQvl9OlMP0iihL_ei3TqKt71kc?usp=sharing)
   - [Keras Functional Models](https://colab.research.google.com/drive/1ZbTedioT0pzm7SiWCGSDpW2oi7j4f_Po?usp=sharing)
 
 - __Lecture 7__: Semantic Segmentation with ConvNets 
-  - [video](https://www.youtube.com/watch?v=bcLuthxZsV0)
+  - [Video](https://www.youtube.com/watch?v=bcLuthxZsV0)
   - [Visualizing ConvNets](https://colab.research.google.com/drive/1Yxw8c5bq0eKU42uKOz-eh9_pcrHRXC2L?usp=sharing)
   - [Semantic Segmentation on CAMVID dataset](https://colab.research.google.com/drive/13ID9lzDmSTfQgIuGwME6NXBwjZyMKrUd?usp=sharing)
 
 - __Lecture 8__: Object Detection with ConvNets 
-  - [video](https://www.youtube.com/watch?v=waLTqa3jVfk)
+  - [Video](https://www.youtube.com/watch?v=waLTqa3jVfk)
   - [Single Object Detection](https://colab.research.google.com/drive/1_3_gTDTs8dhxUXeO63p4IHBz8OF2OfKP?usp=sharing)
   - [Multiple Label Object Detection](https://colab.research.google.com/drive/1Y6m0CK6W07Xg7cGTHwZB8n2RVRgFNSxL?usp=sharing)
   - [Multiple Objects Detection](https://colab.research.google.com/drive/1dF_KIMu7cp28i4btofGrj_RQnrG3qcNf?usp=sharing)
